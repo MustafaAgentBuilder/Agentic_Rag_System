@@ -200,6 +200,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Tavily for live search capabilities
 
 ## Contact
-For issues or feature requests, open a GitHub issue or email your-email@example.com.
-
+For issues or feature requests, open a GitHub issue or email mustafaadeel989@gmail.com.com.
+Linked In  -> www.linkedin.com/in/mustafa-mirza-18b839278
 Happy coding! Let's make AI accessible and powerful. 🚀
